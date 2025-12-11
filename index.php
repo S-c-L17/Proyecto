@@ -146,6 +146,5 @@
 <footer>
     &copy; 2025 Página Sobre la Prevención de las Drogas.
 </footer>
-
 </body>
 </html>
